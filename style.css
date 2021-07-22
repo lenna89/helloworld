@@ -6,10 +6,10 @@ background: aqua;
 h1{
 color: rgb(29, 29, 207);
 background: cadetblue;
-font-family:"Playfair Dispay";
+font-family: "Playfair Display", serif;
 font-weight: bold;
 }
 
 p{
-font-family:"Popins serif";
+font-family: "Poppins", sans-serif;
 font-weight: normal; }
